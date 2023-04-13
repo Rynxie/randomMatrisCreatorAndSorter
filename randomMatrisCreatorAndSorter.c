@@ -79,9 +79,9 @@ int main()
             break;
         case 2:
             matrisCreator(true); //If the user chooses 2, sort the array in descending order
-			break;
-		default:
-			break;
-	}
+	    break;
+	default:
+ 	    break;
+     }
 }
 
